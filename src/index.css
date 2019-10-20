@@ -1,0 +1,32 @@
+.main-container {
+  padding: 5%;
+}
+
+.container {
+  max-width: 90% !important;
+}
+
+.wallet-address {
+  color:white;
+}
+
+.list-items-artifacts {
+  display: block;
+}
+
+.leaflet-container {
+      height: 25rem;
+    width: 100%;
+}
+
+button a {
+  color: white;
+}
+
+.bold-text {
+  font-weight: bold !important;
+}
+
+.timestamp {
+  float: right;
+}

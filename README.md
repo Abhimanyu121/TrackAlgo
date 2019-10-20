@@ -1,4 +1,4 @@
-# TrackAlgo - Track on Algorand
+# KrishiMitra Track - Track on Algorand
 
 This project is a platform where a person can track any material. The item details are put onto the algorand blockchain.
 
@@ -42,8 +42,8 @@ The one used by the project currenlty is :-
 ```
 {
   items:[{
-    id: 'Paracetamol',
-    name: 'Paracetamol',
+    id: '1',
+    name: 'Wheat',
     latlng: {
       lat: 51.505,
       lng: -0.09,

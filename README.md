@@ -21,6 +21,10 @@ The project is generic i.e., It can be adapted for any use case. Currently it im
 
 ### Item Details
 
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
 - Shows a tracking history of an item with all he coordinates, timestamp in a list form as well as on the map.
 - Shows a map of all the previous locations of an item.
 - Gives the option to update the location by taking the current location from the user.
@@ -112,6 +116,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 ### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### Deployment
 
